@@ -4,16 +4,16 @@ A modern, responsive weather application built with React.js that provides real-
 
 ## 📸 Screenshots
 
-![Main Tab Weather Dashboard](/weather-forecast/picOfApp/MainTabPic.png)
+![Main Tab Weather Dashboard](/picOfApp/MainTabPic.png)
 _Main Dashboard with Current Weather and Alerts_
 
-![Forecast Tab Weather Dashboard](/weather-forecast/picOfApp/ForeCastTabPic.png)
+![Forecast Tab Weather Dashboard](/picOfApp/ForeCastTabPic.png)
 _7-Day Weather Forecast View_
 
-![Historical Data Tab Weather Dashboard](/weather-forecast/picOfApp/HistoricalDataTabPic.png)
+![Historical Data Tab Weather Dashboard](/picOfApp/HistoricalDataTabPic.png)
 _Historical Weather Data with Interactive Charts_
 
-![Search and Map Weather Dashboard](/weather-forecast/picOfApp/SearchLocationPic.png)
+![Search and Map Weather Dashboard](/picOfApp/SearchLocationPic.png)
 _Location Search with Interactive Map_
 
 ## 🌟 Features
